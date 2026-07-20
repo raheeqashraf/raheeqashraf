@@ -11,8 +11,10 @@ I am an aspiring **Software Developer** and **Python Developer** with a strong b
 * **AI Voice Assistant:** A modular Python-based assistant capable of intent classification, system task orchestration, and automated web searching. 
   * *Tech Stack:* Python, Speech Recognition, Text-to-Speech, APIs, Modular Programming
 
-### 💼 Professional Experience
-* **Software Developer / Technical Communication:** Experience in database management, troubleshooting system logic, and translating complex technical features into user-centric solutions through professional roles at Techronics AI and Solar Power Solution.
+### 💼 Software Development Focus
+* **Application & Web Development:** Building functional applications using Python and C++, alongside clean, responsive web layouts.
+* **Core Software Principles:** Strong focus on Object-Oriented Programming (OOP), algorithmic logic, software testing, and clean code architecture.
+* **Technical Problem Solving:** Dedicated to continuous debugging, system logic validation, and optimization to ensure code runs efficiently.
 
 ---
 📫 **How to reach me:** raheeqashraf08@gmail.com
