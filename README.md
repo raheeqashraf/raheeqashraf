@@ -17,5 +17,9 @@ I am an aspiring **Software Developer** and **Python Developer** with a strong b
 * **Technical Problem Solving:** Dedicated to continuous debugging, system logic validation, and optimization to ensure code runs efficiently.
 
 ---
-📫 **How to reach me:** raheeqashraf08@gmail.com
+---
+📫 **How to reach me:**
+* 📧 **Email:** raheeqashraf08@gmail.com
+* 💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me/923234752342)
 📍 Lahore, Pakistan
+
